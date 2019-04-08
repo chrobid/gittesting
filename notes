@@ -1,0 +1,6 @@
+NOTES FROM GIT TOGETHER
+
+Why branch?
+-start a branch at a point you might want to roll back to
+-good for experimental features, or bugs that might break other things
+-
